@@ -64,6 +64,11 @@ A full-stack authentication application built using the MERN stack. This project
 6. Protected routes verify the JWT before granting access.
 7. Users can securely log out by removing the token.
 
+## 🌐 Live Demo
+
+🔗 Live Link: https://mern-auth-ui-e1gu.onrender.com
+
+
 ## 📸 Screenshots
 
 ### Login Page
@@ -80,10 +85,6 @@ A full-stack authentication application built using the MERN stack. This project
 
 <img width="1918" height="1020" alt="Screenshot 2026-06-09 074344" src="https://github.com/user-attachments/assets/85de81ff-55e0-49fc-ac2f-837332361eaf" />
 
-
-## 🌐 Live Demo
-
-🔗 Live Link: https://mern-auth-ui-e1gu.onrender.com
 
 ## 🎯 What I Learned
 
