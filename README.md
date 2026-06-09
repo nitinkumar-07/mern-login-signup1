@@ -68,23 +68,22 @@ A full-stack authentication application built using the MERN stack. This project
 
 ### Login Page
 
-(Add Screenshot)
+<img width="1919" height="1021" alt="Screenshot 2026-06-09 074536" src="https://github.com/user-attachments/assets/870174ec-3b39-48f5-bfd0-17cd44fabaf1" />
+
 
 ### Signup Page
 
-(Add Screenshot)
+<img width="1917" height="1015" alt="Screenshot 2026-06-09 074239" src="https://github.com/user-attachments/assets/d5ec8ded-91a6-4b50-811c-152100203b2f" />
+
 
 ### Home Page
 
-(Add Screenshot)
+<img width="1918" height="1020" alt="Screenshot 2026-06-09 074344" src="https://github.com/user-attachments/assets/85de81ff-55e0-49fc-ac2f-837332361eaf" />
+
 
 ## 🌐 Live Demo
 
-🔗 Live Link: YOUR_LIVE_LINK_HERE
-
-## 💻 Source Code
-
-🔗 GitHub Repository: YOUR_GITHUB_REPOSITORY_LINK
+🔗 Live Link: https://mern-auth-ui-e1gu.onrender.com
 
 ## 🎯 What I Learned
 
